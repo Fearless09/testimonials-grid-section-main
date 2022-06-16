@@ -1,4 +1,6 @@
-# Frontend Mentor - Testimonials grid section
+# Frontend Mentor Challenge, Coded By Fearless Tech. - Testimonials grid section
+
+https://fearless09.github.io/testimonials-grid-section-main/
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
